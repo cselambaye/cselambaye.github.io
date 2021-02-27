@@ -340,6 +340,10 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.work b {
+   font : 15px 'opensans-bold', sans-serif;
+}
+
 .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
